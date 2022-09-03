@@ -1,4 +1,5 @@
 import React from "react";
+import Footer from "../components/Footer";
 import {useState} from "react";
 import {db} from "../firebase/firebase"
 import { collection, getDocs, addDoc, deleteDoc, doc, updateDoc} from "firebase/firestore"
@@ -141,13 +142,11 @@ const AboutPage = () => {
     </tbody>
   </table>
 </section>
-
-
-
-
-
+<Footer />
 </section>
 
     ) 
 };
+
+
 export default AboutPage;

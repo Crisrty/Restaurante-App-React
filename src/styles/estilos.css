@@ -71,3 +71,17 @@
 .table{
     font-family: 'Bebas Neue', cursive;
 }
+
+.cabeza-tabla-menu{
+    font-family: 'Pacifico', cursive;
+    color: rgb(252, 137, 42);
+    font-size: 30px;
+    text-align: center;
+}
+
+.text-menu{
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(21, 90, 151);
+    font-size: 20px;
+    text-align: center;
+}
