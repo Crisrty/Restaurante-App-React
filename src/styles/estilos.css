@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.encabezado{
+    font-family: 'Pacifico', cursive;
+    color:rgb(21, 90, 151);
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.card-title{
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    color:rgb(21, 90, 151);
+}
+
+.card-text{
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(252, 137, 42);
+    font-size: 22px;
+}
+
+.pie{
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    color: rgb(252, 137, 42);
+    text-align: center;
+    margin-top: 20px;
+}
+
+.cartas{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.navbar{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 22px;
+    color: rgb(252, 137, 42);
+}
+
+.tituloForm{
+    font-family: 'Pacifico', cursive;
+    font-size: 35px;
+    color:rgb(21, 90, 151);
+    margin-bottom: 12px;
+}
+
+.field-label{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+    color: rgb(252, 137, 42);
+    margin-right: 10px;
+}
+
+.gui-input{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+    color: rgb(21, 90, 151);
+    width: 400px;
+}
+
+.form-footer{
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 450px;
+}
+
+
+
